@@ -3,12 +3,27 @@
 
 
 }
-
+body{
+    overflow-x: hidden;
+}
 
 h1 {
     font-family: "Montserrat", sans-serif;
     font-weight: 800;
     justify-content: s;
+}
+@media(min-width:1000px){
+    .car-hed{
+        animation: car 1.7s infinite;
+    }
+    @keyframes car{
+        100%,0%{
+            translate: -25px -10px;
+        }
+        50%{
+            translate: 25px 10px;
+        }
+    }
 }
 
 .mont-font {
