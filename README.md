@@ -38,7 +38,7 @@ Aotuzoom
 
 ## 📸 Preview
 <p align="center">
-  <img src="./img/" width="100%" alt="AutoZoom Preview" />
+  <img src="./img/cov1.png" width="100%" alt="AutoZoom Preview" />
 </p>
 
 ---
