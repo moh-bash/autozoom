@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# autozoom
 Aotuzoom
 =======
 <div align="center">
@@ -49,5 +47,7 @@ Aotuzoom
    git clone [https://github.com/moh-bash/autozoom.git](https://github.com/moh-bash/autozoom.git)
     ```
 2. Open index.html in your browser.
-⭐ If you like this project, feel free to give it a star!
->>>>>>> 2603b66490f3019f96dabee276e495af2cc0f2bc
+
+   
+## ⭐ If you like this project, feel free to give it a star!
+
